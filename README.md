@@ -22,7 +22,6 @@
 - **Responsive Design**: Ensure the app looks good on all devices—desktop, tablet, and mobile.
 - **Interaction Handling**: Implement click events for buttons and checkboxes to handle task actions.
 
----
 
 ### **Technologies Used:**
 - **HTML**: Structure the app’s layout with input fields, buttons, and task lists.
