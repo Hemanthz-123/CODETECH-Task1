@@ -1,7 +1,7 @@
 **Name:** HEMANTH MUVVALA <br />
 **Company:** CODTECH IT SOLUTIONS <br />
 **ID:** CT12DS2254 <br />
-**Domain:** Web Development
+**Domain:** Web Development <br />
 **Duration:** Aug to Oct 2024
 
 ## Overview of the project
