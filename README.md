@@ -29,3 +29,7 @@
 - **JavaScript**: Add functionality like adding tasks, marking them complete, and saving them.
 - **Local Storage**: Store tasks in the browser to ensure persistence between sessions.
 - **Media Queries**: Ensure responsive design for various screen sizes.
+
+### **output:**
+
+![Screenshot 2024-09-22 091343](https://github.com/user-attachments/assets/9a58c0ef-88c6-4330-b287-5dc8af1a6596)
